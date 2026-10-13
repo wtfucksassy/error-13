@@ -1,0 +1,22 @@
+ERROR 13 — Proyecto HTML, CSS y JavaScript para Visual Studio Code
+
+Organización basada en tu proyecto DARK_ISSUE_COMICS.
+
+1. Extrae todo el ZIP.
+2. En VS Code abre la carpeta error_13_viviana, dentro de ERROR_13_WEB.
+3. Abre index.html con Live Server o directamente desde tu navegador.
+
+CARPETAS
+css/style.css: todos los estilos de la página.
+img/: logo, collage de Viviana y gráficos usados.
+js/script.js: menú, guardado de lecturas y preparación de correo.
+video/: reservada para videos; la página actual no contiene videos.
+webfonts/: fuente local.
+articulo/: páginas de los seis artículos.
+
+PÁGINAS PRINCIPALES
+index.html, musica.html, lecturas.html, cine.html, moda-arte.html, lugares.html, acerca.html y contacto.html.
+
+Puedes editar el texto dentro de los HTML y cambiar el aspecto en css/style.css. No requiere npm ni un compilador.
+El contacto abre tu programa de correo; el mensaje se envía desde allí.
+El diseño y contenido corresponden a la versión aprobada con el collage de Viviana y el logo Error 13.
